@@ -1,0 +1,5 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1367775454	Fire_Shotgun_Player			\Default Work Unit\Fire_Shotgun_Player	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	750580131	Shotgun_Blast	D:\IFK

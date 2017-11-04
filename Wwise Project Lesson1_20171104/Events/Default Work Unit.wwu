@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1D702C5F-4703-4906-81AC-75BD493638CC}" SchemaVersion="80">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{1D702C5F-4703-4906-81AC-75BD493638CC}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Fire_Shotgun_Player" ID="{B9D318C3-4EAE-4239-9644-15D885D13D08}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
